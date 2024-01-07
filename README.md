@@ -18,12 +18,12 @@ So far there is no code in here, but there's *work in progress*.
 
 ## How to use
 
-tbd
+  tbd
 
 ## Technologies
 
-tbd: all the technologies and/or frameworks used and what purpose they serve in this project.
+  tbd: all the technologies and/or frameworks used and what purpose they serve in this project.
 
 ## License
 
-tbd
+  tbd
