@@ -4,7 +4,7 @@ To learn how to use Git properly I started a course with Codecademy. In this cou
 
   - how to work with the terminal
   - what Git and GitHub are
-  - How to set up a git repository using Git and GitHub
+  - how to set up a git repository using Git and GitHub
   - Markup
 
 and finally, during the course this project developed.
